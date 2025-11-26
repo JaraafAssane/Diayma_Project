@@ -1,4 +1,4 @@
-**TÂCHE 2:**
+## TÂCHE 2:
 
 &nbsp;**Projets de la Solution**
 
@@ -8,7 +8,7 @@
 
 
 
-**TÂCHE 3 et 4 :** 
+## TÂCHE 3 et 4 :
 
 &nbsp; **Version SDK**
 
@@ -48,7 +48,7 @@ La solution contient 1 projet :
 
 
 
-TÂCHE 3 : Version SDK
+## TÂCHE 3 : Version SDK
 
 \- Version originale du projet : .NET Core 2.0 (netcoreapp2.0)
 
@@ -62,7 +62,7 @@ Le SDK .NET 10.0 a été installé et le projet a été migré de la version 2.0
 
 
 
-TÂCHE 6 : Exploration et Bugs
+## TÂCHE 6 : Exploration et Bugs
 
 J'ai exploré l'application et identifié les bugs suivants :
 
@@ -82,7 +82,7 @@ J'ai exploré l'application et identifié les bugs suivants :
 
 
 
-TÂCHE 7/8 : Analyse de l'exécution (Débogage)
+## TÂCHE 7/8 : Analyse de l'exécution (Débogage)
 
 Lors du lancement de l'application et de l'affichage de la page d'accueil, voici l'ordre d'exécution observé via les points d'arrêt :
 
@@ -125,7 +125,9 @@ Lors du lancement de l'application et de l'affichage de la page d'accueil, voici
 
 
 
-
+## TÂCHE 7 : Exécutable du projet
+Voici le lien pour télécharger la version déployée (.exe) de l'application :
+[Télécharger l'application (Google Drive)](https://drive.google.com/file/d/1RvnnareaMEccsweqxPRwsDq8YYu2f9fe/view?usp=sharing)
 
 
 
