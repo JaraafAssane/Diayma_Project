@@ -1,35 +1,3 @@
-## TÂCHE 2:
-
-&nbsp;**Projets de la Solution**
-
-&nbsp;La solution contient 1 projet :
-
-&nbsp;1. Diayma - Application web ASP.NET Core MVC
-
-
-
-## TÂCHE 3 et 4 :
-
-&nbsp; **Version SDK**
-
-&nbsp;- Version originale du projet : .NET Core 2.0 (netcoreapp2.0)
-
-&nbsp;- Version mise à jour : .NET 10.0 (net10.0)
-
-&nbsp;- SDK installé sur ma machine : .NET 10.0.100
-
-
-
-  **Installation SDK (Tâche 4)**
-
-&nbsp;Le projet a été mis à jour de .NET Core 2.0 vers .NET 10.0 pour utiliser le SDK installé.
-
-
-
-
-
-https://github.com/JaraafAssane/Diayma_Project.git
-
 
 
 ===========================================================================================
@@ -39,8 +7,7 @@ https://github.com/JaraafAssane/Diayma_Project.git
 &nbsp;Rapport du projet Diayma
 
 
-
-&nbsp;TÂCHE 2 : Projets de la Solution
+## TÂCHE 2 : Projets de la Solution
 
 La solution contient 1 projet :
 
@@ -56,11 +23,13 @@ La solution contient 1 projet :
 
 
 
-&nbsp;TÂCHE 4 : Installation SDK
+&nbsp;
+## TÂCHE 4 : Installation SDK
 
 Le SDK .NET 10.0 a été installé et le projet a été migré de la version 2.0 vers la version 10.0.
 
 
+https://github.com/JaraafAssane/Diayma_Project.git
 
 ## TÂCHE 6 : Exploration et Bugs
 
@@ -125,7 +94,7 @@ Lors du lancement de l'application et de l'affichage de la page d'accueil, voici
 
 
 
-## TÂCHE 7 : Exécutable du projet
+## TÂCHE 9 : Exécutable du projet
 Voici le lien pour télécharger la version déployée (.exe) de l'application :
 [Télécharger l'application (Google Drive)](https://drive.google.com/file/d/1RvnnareaMEccsweqxPRwsDq8YYu2f9fe/view?usp=sharing)
 
